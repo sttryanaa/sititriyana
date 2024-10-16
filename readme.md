@@ -36,7 +36,7 @@ Berikut adalah langkah-langkah rinci berdasarkan program yang diberikan:
 
 Minta Input Nama Pendonor, Usia, Berat Badan, Kondisi, Hamil, Menyusui, Konsumsi Alkhohol, Penyakit Menular.
 
- >nama_pendonor = str(input('Masukkan Nama :'))
+    >nama_pendonor = str(input('Masukkan Nama :'))
 
     >usia = int(input('Masukkan Usia :'))
     
