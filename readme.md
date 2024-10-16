@@ -62,6 +62,6 @@ Setelah semua data pendonor sudah ter-input, tampilkan hasil kelayakan pendonor.
 
     print('Terimakasih')
 
-![flowchart](flowchart donor darah.png)
+![flowchart](flowchart.png)
 
 
