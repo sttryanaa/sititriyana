@@ -22,11 +22,17 @@ Berikut adalah langkah-langkah rinci berdasarkan program yang diberikan:
 Minta Input Nama Pendonor, Usia, Berat Badan, Kondisi, Hamil, Menyusui, Konsumsi Alkhohol, Penyakit Menular.
  >nama_pendonor = str(input('Masukkan Nama :'))
     >usia = int(input('Masukkan Usia :'))
+    
     >berat_badan = float(input('Masukkan Berat Badan Anda :'))
+
     >kondisi = str(input('Apakah kondisi Anda sehat? (ya/tidak) :'))
+
     >hamil = str(input('Apakah Anda dalam kondisi hamil? (ya/tidak) :'))
+
     >menyusui = str(input('Apakah Anda sedang dalam menyusui? (ya/tidak) :'))
+
     >konsumsi_alkohol = str(input('Apakah Anda konsumsi alkohol dalam 48 jam terakhir? (ya/tidak) :'))
+    
     >penyakit_menular = str(input('Apakah Anda memiliki penyakit menular? (ya/tidak) :'))
 3. Pesan Penutup
 Setelah semua data pendonor sudah ter-input, tampilkan hasil kelayakan pendonor.
