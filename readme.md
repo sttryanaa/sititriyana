@@ -32,12 +32,14 @@ Minta Input Nama Pendonor, Usia, Berat Badan, Kondisi, Hamil, Menyusui, Konsumsi
     >menyusui = str(input('Apakah Anda sedang dalam menyusui? (ya/tidak) :'))
 
     >konsumsi_alkohol = str(input('Apakah Anda konsumsi alkohol dalam 48 jam terakhir? (ya/tidak) :'))
-    
+
     >penyakit_menular = str(input('Apakah Anda memiliki penyakit menular? (ya/tidak) :'))
 3. Pesan Penutup
 Setelah semua data pendonor sudah ter-input, tampilkan hasil kelayakan pendonor.
     >print('Silahkan Mendonorkan Darah Anda')
+
     print('Mohon Maaf, Anda Belum Memenuhi Syarat Untuk Menjadi Pendonor')
+    
     print('Terimakasih')
 
     ![flowchart](flowchart.png)
