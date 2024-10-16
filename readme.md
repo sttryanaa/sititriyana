@@ -62,5 +62,5 @@ Setelah semua data pendonor sudah ter-input, tampilkan hasil kelayakan pendonor.
 
     print('Terimakasih')
 
-    ![flowchart](flowchart.png)
+![flowchart](flowchart.png)
 
