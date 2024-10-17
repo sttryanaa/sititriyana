@@ -18,7 +18,7 @@ Data yang dimasukkan akan dievaluasi untuk menentukan status kelayakan pendonor 
 
 3. Evaluasi Status
 
-Program menggunakan kondisi if untuk mengevaluasi apakah pendonor memenuhi semua persyaratan yang ada'.
+Program menggunakan kondisi if untuk mengevaluasi apakah pendonor memenuhi semua persyaratan yang ada.
 
 Jika pendonor memenuhi semua persyaratan maka status pendonor akan mencetak "Silahkan Mendonorkan Darah Anda"
 
@@ -26,7 +26,7 @@ Jika tidak memenuhi semua persyaratan maka status pendonor akan mencetak "Mohon 
 
 ## Langkah-Langkah Program
 
-Berikut adalah langkah-langkah rinci berdasarkan program yang diberikan:
+Berikut adalah langkah-langkah rinci berdasarkan program yang tertera:
 
 1. Cetak Judul
 

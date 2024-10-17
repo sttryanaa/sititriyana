@@ -13,6 +13,8 @@ if usia > 17 and berat_badan > 45 and kondisi == 'ya' and hamil == 'tidak' and m
     status = 'Silahkan Mendonorkan Darah Anda'
 else:
     status = 'Mohon Maaf, Anda Belum Memenuhi Syarat Untuk Menjadi Pendonor'
+
 print(status)
+
 print('Terimakasih')
 
